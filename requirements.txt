@@ -1,0 +1,8 @@
+ydata_profiling
+pandas
+pydantic
+openpyxl
+ipywidgets==8.1.2
+plotly
+scikit-learn
+ipykernel
